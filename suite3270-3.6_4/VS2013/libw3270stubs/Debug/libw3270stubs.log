@@ -1,0 +1,29 @@
+﻿  ft_gui_stubs.c
+  glue_gui_stubs.c
+  host_gui_stubs.c
+  menubar_stubs.c
+  nvt_gui_stubs.c
+  popups_stubs.c
+  pr3287_session_stubs.c
+  print_gui_stubs.c
+  product_stubs1.c
+  product_stubs2.c
+  product_stubs3.c
+  save_stubs.c
+  screen_stubs1.c
+  screen_stubs2.c
+  screen_stubs3.c
+  screen_stubs4.c
+  screen_stubs5.c
+  screen_stubs6.c
+  scroll_stubs.c
+  select_stubs.c
+  Generating Code...
+  Compiling...
+  sio_none.c
+  ssl_passwd_gui_stubs.c
+  status_stubs.c
+  telnet_gui_stubs.c
+  trace_gui_stubs.c
+  Generating Code...
+  libw3270stubs.vcxproj -> G:\share\suite3270-3.6_4\VS2013\Debug\libw3270stubs.lib

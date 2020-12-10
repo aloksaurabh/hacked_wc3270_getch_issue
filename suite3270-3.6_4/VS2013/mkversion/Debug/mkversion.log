@@ -1,0 +1,3 @@
+﻿cl : command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  mkversion.c
+  mkversion.vcxproj -> G:\share\suite3270-3.6_4\VS2013\Debug\mkversion.exe

@@ -1,0 +1,22 @@
+﻿  asprintf.c
+  indent_s.c
+  lazya.c
+  proxy.c
+  resolver.c
+  see.c
+  sioc.c
+  split_host.c
+  tables.c
+  unicode.c
+  unicode_dbcs.c
+  utf8.c
+  varbuf.c
+  xs_buffer.c
+  Generating Code...
+  sio_schannel.c
+  snprintf.c
+  w3misc.c
+  windirs.c
+  winvers.c
+  Generating Code...
+  libw32xx.vcxproj -> G:\share\suite3270-3.6_4\VS2013\Debug\libw32xx.lib

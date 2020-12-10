@@ -1,0 +1,2 @@
+G:\share\suite3270-3.6_4\VS2013\Debug\libw32xx.pdb
+G:\share\suite3270-3.6_4\VS2013\libw32xx\Debug\libw32xx.pdb

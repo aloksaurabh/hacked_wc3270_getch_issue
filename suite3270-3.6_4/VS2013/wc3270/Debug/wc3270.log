@@ -1,0 +1,20 @@
+﻿cl : command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  ssl_passwd_gui.c
+  menubar.c
+  keypad.c
+  icmd.c
+  help.c
+  ft_gui.c
+  c3270.c
+  Generating Code...
+cl : command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  version.c
+  shortcut.c
+  select.c
+  screen.c
+  relink.c
+  nvt_gui.c
+  keymap.c
+  fallbacks.c
+  Generating Code...
+  wc3270.vcxproj -> G:\share\suite3270-3.6_4\VS2013\Debug\wc3270.exe

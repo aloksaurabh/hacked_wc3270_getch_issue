@@ -1,0 +1,44 @@
+﻿  actions.c
+  apl.c
+  b8.c
+  bind-opt.c
+  charset.c
+  ctlr.c
+  event.c
+  sio_common.c
+  telnet_sio.c
+  fprint_screen.c
+  ft.c
+  ft_cut.c
+  ft_dft.c
+  glue.c
+  host.c
+  httpd-core.c
+  httpd-io.c
+  httpd-nodes.c
+  idle.c
+  kybd.c
+  Generating Code...
+  Compiling...
+  linemode.c
+  llist.c
+  macros.c
+  Malloc.c
+  nvt.c
+  print_screen.c
+  readres.c
+  rpq.c
+  sf.c
+  telnet.c
+  telnet_new_environ.c
+  toggles.c
+  trace.c
+  util.c
+  winprint.c
+  xio.c
+  XtGlue.c
+  Generating Code...
+  favicon.c
+  gdi_print.c
+  resources.c
+  libw3270.vcxproj -> G:\share\suite3270-3.6_4\VS2013\Debug\libw3270.lib
