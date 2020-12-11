@@ -83,7 +83,7 @@ if platform.system() == 'Darwin':
 		s3270App.executable = 's3270'
 elif platform.system() == 'Linux':
 	class WrappedEmulator(EmulatorIntermediate):
-		x3270App.executable = './x3270'
+		x3270App.executable = '/usr/local/bin/x3270'
 		s3270App.executable = 's3270'
 elif platform.system() == 'Windows':
 	class WrappedEmulator(EmulatorIntermediate):
